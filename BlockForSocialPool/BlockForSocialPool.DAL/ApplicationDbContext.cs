@@ -1,4 +1,5 @@
 ﻿using BlockForSocialPool.Data;
+using BlockForSocialPool.Data.Questions;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -17,6 +18,7 @@ namespace BlockForSocialPool.DAL
         }
 
         public DbSet<Interview> Interviews { get; set; }
+        public DbSet<Question> Questions { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BlockForSocialPool.Data.Questions;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,15 +22,18 @@ namespace BlockForSocialPool.Data
         public virtual DateTime? StartDate { get; set; }
         public virtual DateTime? DueDate { get; set; }
         public virtual int MaxTriesOfSpending { get; set; }
+        public virtual IList<Question> Questions { get; set; }
 
         public Interview()
         {
+            Questions = new List<Question>();
         }
 
         public Interview(string name, InterviewType type)
         {
             Name = name;
             Type = type;
+            Questions = new List<Question>();
         }
     }
 }

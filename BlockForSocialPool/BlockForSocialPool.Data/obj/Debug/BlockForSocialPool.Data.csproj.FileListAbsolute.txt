@@ -1,0 +1,4 @@
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\BlockForSocialPool.Data.dll
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\BlockForSocialPool.Data.pdb
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\obj\Debug\BlockForSocialPool.Data.dll
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\obj\Debug\BlockForSocialPool.Data.pdb

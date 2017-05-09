@@ -48,10 +48,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entity.cs" />
+    <Compile Include="Infrastructure\QuestionSlide.cs" />
     <Compile Include="Interview.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Questions\CatalogQuestion.cs" />
     <Compile Include="Questions\OpenQuestion.cs" />
     <Compile Include="Questions\Question.cs" />
+    <Compile Include="Questions\QuestionWithAnswers.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

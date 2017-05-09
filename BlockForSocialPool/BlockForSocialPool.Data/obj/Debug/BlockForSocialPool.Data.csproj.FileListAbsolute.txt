@@ -8,3 +8,7 @@ C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\
 C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\EntityFramework.SqlServer.dll
 C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\EntityFramework.xml
 C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

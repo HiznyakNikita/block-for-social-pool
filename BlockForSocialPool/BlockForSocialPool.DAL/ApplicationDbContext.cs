@@ -21,6 +21,9 @@ namespace BlockForSocialPool.DAL
         public DbSet<Interview> Interviews { get; set; }
         public DbSet<Question> Questions { get; set; }
         public DbSet<QuestionSlide> QuestionSlides { get; set; }
+        public DbSet<Channel> Channels { get; set; }
+        public DbSet<Respondent> Respondents { get; set; }
+        public DbSet<RespondentAnswer> RespondentAnswers { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

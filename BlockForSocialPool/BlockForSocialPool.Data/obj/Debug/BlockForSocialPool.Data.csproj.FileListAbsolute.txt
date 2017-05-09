@@ -2,3 +2,9 @@ C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\
 C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\BlockForSocialPool.Data.pdb
 C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\obj\Debug\BlockForSocialPool.Data.dll
 C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\obj\Debug\BlockForSocialPool.Data.pdb
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\obj\Debug\BlockForSocialPool.Data.csprojResolveAssemblyReference.cache
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\BlockForSocialPool.Data.dll.config
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\EntityFramework.dll
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\EntityFramework.xml
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.Data\bin\Debug\EntityFramework.SqlServer.xml

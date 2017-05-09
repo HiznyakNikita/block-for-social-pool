@@ -1,0 +1,13 @@
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\bin\Debug\BlockForSocialPool.DAL.dll.config
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\bin\Debug\BlockForSocialPool.DAL.dll
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\bin\Debug\BlockForSocialPool.DAL.pdb
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\bin\Debug\BlockForSocialPool.Data.dll
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\bin\Debug\EntityFramework.dll
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\bin\Debug\BlockForSocialPool.Data.pdb
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\bin\Debug\EntityFramework.xml
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\obj\Debug\BlockForSocialPool.DAL.csprojResolveAssemblyReference.cache
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\obj\Debug\BlockForSocialPool.DAL.dll
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\obj\Debug\BlockForSocialPool.DAL.pdb
+C:\C#\Projects\block-for-social-pool\BlockForSocialPool\BlockForSocialPool.DAL\bin\Debug\BlockForSocialPool.Data.dll.config

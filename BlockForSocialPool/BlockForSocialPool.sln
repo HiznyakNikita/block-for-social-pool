@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockForSocialPool", "Block
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockForSocialPool.Data", "BlockForSocialPool.Data\BlockForSocialPool.Data.csproj", "{F4B775B7-A34D-4686-96C8-DDFECAB8155F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlockForSocialPool.DAL", "BlockForSocialPool.DAL\BlockForSocialPool.DAL.csproj", "{7A6D42C0-8800-4B62-A3CB-155D211EC2D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F4B775B7-A34D-4686-96C8-DDFECAB8155F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4B775B7-A34D-4686-96C8-DDFECAB8155F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4B775B7-A34D-4686-96C8-DDFECAB8155F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A6D42C0-8800-4B62-A3CB-155D211EC2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6D42C0-8800-4B62-A3CB-155D211EC2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6D42C0-8800-4B62-A3CB-155D211EC2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6D42C0-8800-4B62-A3CB-155D211EC2D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
